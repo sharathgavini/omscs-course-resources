@@ -95,20 +95,30 @@ Lecture notes
 Source code or Jupyter notebooks
 Contribution Steps
 
-## Check Existing Folders:
+## Contribution Steps
 
-Before creating a new folder, check if the course folder already exists.
-Create a New Folder:
-Use the naming format CS[Course Number] [Course Name].
-Add the Required File:
-Add a README.md file as described above.
-Optional: Include an other_files/ folder for additional materials.
-Commit Your Changes:
-Use meaningful commit messages. Example:
-Added resources for CS7641 Machine Learning
-Submit a Pull Request:
-Push your changes to a new branch and open a pull request.
-Provide a description of your changes and ensure they follow the guidelines.
+### Check Existing Folders:
+
+- Before creating a new folder, check if the course folder already exists.
+
+### Create a New Folder:
+
+- Use the naming format `CS[Course Number] [Course Name]`.
+
+### Add the Required File:
+
+- Add a `README.md` file as described above.
+- **Optional**: Include an `other_files/` folder for additional materials.
+
+### Commit Your Changes:
+
+- Use meaningful commit messages. Example:
+  `Added resources for CS7641 Machine Learning`
+
+### Submit a Pull Request:
+
+- Push your changes to a new branch and open a pull request.
+- Provide a description of your changes and ensure they follow the guidelines.
 
 # General Rules for Contributors
 
